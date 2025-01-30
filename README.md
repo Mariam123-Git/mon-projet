@@ -20,6 +20,10 @@ Here is a preview of the application:
 ![](./public/capture5.png)
 ![](./public/capture6.png)
 ![](./public/capture7.png)
+![](./public/capture.8png)
+![](./public/capture9.png)
+![](./public/capture10.png)
+![](./public/capture11.png)
 
 ## 🔗 Useful Links
 - [React Documentation](https://react.dev/)
