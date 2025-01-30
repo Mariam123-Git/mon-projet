@@ -9,6 +9,7 @@ export default {
       colors: {
         brightColor: "#F4511F",
         backgroundColor: "#b7bca9",
+        backgroundColor1: "#FFF",
         lightText: "#959595",
       },
     },

@@ -5,6 +5,13 @@ import img3 from "../assets/img/img3.jpg";
 import img4 from "../assets/img/img4.jpg";
 import img5 from "../assets/img/img5.jpg";
 import img6 from "../assets/img/img6.jpg";
+import img7 from "../assets/img/burger(1).jpg";
+import img8 from "../assets/img/beyti(1).jpg";
+import img9 from "../assets/img/chicken2.jpg";
+import img10 from "../assets/img/tortilla(1).jpg";
+
+
+
 import DishesCard from "../layouts/DishesCard";
 
 const Dishes = () => {
@@ -21,6 +28,10 @@ const Dishes = () => {
                 <DishesCard img={img4} title="Tasty Dish" price="$11.99" />
                 <DishesCard img={img5} title="Tasty Dish" price="$10.99" />
                 <DishesCard img={img6} title="Tasty Dish" price="$12.99" />
+                <DishesCard img={img8} title="Tasty Dish" price="$10.99" />
+                <DishesCard img={img7} title="Tasty Dish" price="$20.99" />
+                <DishesCard img={img9} title="Tasty Dish" price="$11.99" />
+                <DishesCard img={img10} title="Tasty Dish" price="$13.99" />
             </div>
         </div>
     );

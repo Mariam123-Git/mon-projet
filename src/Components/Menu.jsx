@@ -3,6 +3,8 @@ import DishesCard from "../layouts/DishesCard";
 import menu1 from "../assets/img/menu1.jpg";
 import menu2 from "../assets/img/menu2.jpg";
 import menu3 from "../assets/img/menu3.jpg";
+import menu4 from "../assets/img/burger(1).jpg";
+
 
 const Menu = () => {
     return (
@@ -15,6 +17,8 @@ const Menu = () => {
                 <DishesCard img={menu1} title="Delicious Dish" price="$16.99" />
                 <DishesCard img={menu2} title="Delicious Dish" price="$18.99" />
                 <DishesCard img={menu3} title="Delicious Dish" price="$14.99" />
+                <DishesCard img={menu4} title="Delicious Dish" price="$20.99" />
+
             </div>
         </div>
     );
