@@ -14,16 +14,15 @@ This project is a web application built using **React**, **TypeScript**, and **V
 Here is a preview of the application:
 
 ![App Preview](./public/capture1.png)
-![](./public/capture2.png)
-![](./public/capture3.png)
-![](./public/capture4.png)
-![](./public/capture5.png)
-![](./public/capture6.png)
-![](./public/capture7.png)
-![](./public/capture.8png)
-![](./public/capture9.png)
-![](./public/capture10.png)
-![](./public/capture11.png)
+![ ](./public/caputre2.png)
+![ ](./public/caputre3.png)
+![ ](./public/capture4.png)
+![ ](./public/caputre5.png)
+![ ](./public/capture6.png)
+![ ](./public/capture8.png)
+![ ](./public/capture9.png)
+![ ](./public/capture10.png)
+![ ](./public/capture11.png)
 
 ## 🔗 Useful Links
 - [React Documentation](https://react.dev/)
